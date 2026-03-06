@@ -48,6 +48,7 @@ personal:
   <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
 </p>
 
@@ -59,8 +60,9 @@ personal:
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
   <img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-0d1117?style=flat-square&logo=oracle&logoColor=F80000" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
   <img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=E6522C" />
   <img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=F46800" />
 </p>
@@ -73,6 +75,7 @@ personal:
   Microservices Architecture     ████████████████░░░░  
   Cloud & DevOps (AWS)           ███████████████░░░░░  
   Observability & Monitoring     █████████████░░░░░░░  
+  Artificial Intelligence        ██████████░░░░░░░░░░  
   Tech Leadership & Mentoring    ████████████████████  
 ```
 
