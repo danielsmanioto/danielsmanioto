@@ -62,8 +62,6 @@ personal:
   <img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/PL%2FSQL-0d1117?style=flat-square&logo=oracle&logoColor=F80000" />
   <img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=E6522C" />
-  <img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=F46800" />
 </p>
 
 <br/>
