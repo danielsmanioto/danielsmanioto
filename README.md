@@ -21,7 +21,7 @@
 ```yaml
 name:       Daniel Smanioto
 role:       Backend Developer & Tech Lead
-experience: 17+ years in software development
+experience: 18+ years in software development (since 2007)
 leading:    since 2022
 
 personal:
