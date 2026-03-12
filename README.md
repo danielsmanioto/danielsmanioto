@@ -20,8 +20,8 @@ role:       Backend Developer & Tech Lead
 experience: 18+ years in software development (since 2007)
 leading:    since 2022
 personal:
-  partner:  Carol (since 2018) 💍
-  son:      Oliver (3 years old) 🧡
+  partner:  Carol 💍
+  son:      Oliver 🧡
 hobbies:
   - ♟️  Chess
   - ☕  Coffee lover
