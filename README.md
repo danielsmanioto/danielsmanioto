@@ -53,8 +53,7 @@ hobbies:
   <img src="https://img.shields.io/badge/System_Design-0d1117?style=flat-square&logo=blueprint&logoColor=888888" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-0d1117?style=flat-square&logo=oracle&logoColor=F80000" />
+  <img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=ffffff" /> 
   <img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
 </p>
 <br/>
